@@ -6,20 +6,24 @@ Airbnb is a company that offers a digital platform dedicated to the offer of acc
 
 ## Usage
 
---Clone the respository
+- Clone the respository
   git clone https://github.com/agzsoftsi/CloneVersion-AirBnB.git
---Enter to the code Directory
+- Enter to the code Directory
   cd app
---Install Dependencies
+- Install Dependencies
   npm install
---Run App
+- Run App
   npm start
 
 # Built with
--- React Js
--- Firebase
--- Material Ui
--- react-date-range library
+- React Js
+- Firebase
+- Material Ui
+- react-date-range library
 
 # Live Demo
 https://airbnb-cone.web.app/
+
+#ScreenShhots
+
+# HomePage
